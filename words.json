@@ -46,5 +46,513 @@
     {
         "english": "cool",
         "japanese": "かっこいい"
+    },
+    {
+        "english": "person",
+        "japanese": "ひと"
+    },
+    {
+        "english": "student",
+        "japanese": "がくせい"
+    },
+    {
+        "english": "ken",
+        "japanese": "けん"
+    },
+    {
+        "english": "hello",
+        "japanese": "こんにちは"
+    },
+    {
+        "english": "nice to meet you",
+        "japanese": "どうぞよろしく"
+    },
+    {
+        "english": "hana",
+        "japanese": "はな"
+    },
+    {
+        "english": "naomi",
+        "japanese": "なおみ"
+    },
+    {
+        "english": "good evening",
+        "japanese": "こんばんは"
+    },
+    {
+        "english": "miss",
+        "japanese": "さｎ"
+    },
+    {
+        "english": "bye",
+        "japanese": "じゃあね"
+    },
+    {
+        "english": "see you tomorrow",
+        "japanese": "またあした"
+    },
+    {
+        "english": "curry",
+        "japanese": "カレー"
+    },
+    {
+        "english": "is",
+        "japanese": "は"
+    },
+    {
+        "english": "tasty",
+        "japanese": "おいしい"
+    },
+    {
+        "english": "ramen",
+        "japanese": "ラーメン"
+    },
+    {
+        "english": "this",
+        "japanese": "これ"
+    },
+    {
+        "english": "that (it)",
+        "japanese": "それ"
+    },
+    {
+        "english": "pizza",
+        "japanese": "ピザ"
+    },
+    {
+        "english": "cake",
+        "japanese": "ケーキ"
+    },
+    {
+        "english": "yes",
+        "japanese": "はい"
+    },
+    {
+        "english": "no",
+        "japanese": "いいえ"
+    },
+    {
+        "english": "question",
+        "japanese": "か"
+    },
+    {
+        "english": "big",
+        "japanese": "おおきい"
+    },
+    {
+        "english": "small",
+        "japanese": "ちいさい"
+    },
+    {
+        "english": "america",
+        "japanese": "アメリカ"
+    },
+    {
+        "english": "american",
+        "japanese": "アメリカじん"
+    },
+    {
+        "english": "canada",
+        "japanese": "カナダ"
+    },
+    {
+        "english": "canadian",
+        "japanese": "カナダじん"
+    },
+    {
+        "english": "japan",
+        "japanese": "ニホン",
+        "kanji": "日本"
+    },
+    {
+        "english": "japanese",
+        "japanese": "ニホン"
+    },
+    {
+        "english": "britain",
+        "japanese": "イギリス"
+    },
+    {
+        "english": "british",
+        "japanese": "イギリスじｎ"
+    },
+    {
+        "english": "brazil",
+        "japanese": "ブラジル"
+    },
+    {
+        "english": "brazilian",
+        "japanese": "ブラジルじん"
+    },
+    {
+        "english": "where",
+        "japanese": "どこ"
+    },
+    {
+        "english": "here",
+        "japanese": "ここ"
+    },
+    {
+        "english": "there",
+        "japanese": "そこ"
+    },
+    {
+        "english": "convenience store",
+        "japanese": "コンビニ"
+    },
+    {
+        "english": "hotel",
+        "japanese": "ホテル"
+    },
+    {
+        "english": "bus stop",
+        "japanese": "バスてい"
+    },
+    {
+        "english": "department store",
+        "japanese": "デパート"
+    },
+    {
+        "english": "train station",
+        "japanese": "えき"
+    },
+    {
+        "english": "university",
+        "japanese": "だいがく"
+    },
+    {
+        "english": "hat",
+        "japanese": "ぼうし"
+    },
+    {
+        "english": "umbrella",
+        "japanese": "かさ"
+    },
+    {
+        "english": "my",
+        "japanese": "わたしの"
+    },
+    {
+        "english": "red",
+        "japanese": "あかい"
+    },
+    {
+        "english": "coat",
+        "japanese": "コート"
+    },
+    {
+        "english": "white",
+        "japanese": "しろい"
+    },
+    {
+        "english": "shoes",
+        "japanese": "くつ"
+    },
+    {
+        "english": "these",
+        "japanese": "これら"
+    },
+    {
+        "english": "those",
+        "japanese": "それら"
+    },
+    {
+        "english": "this",
+        "japanese": "この"
+    },
+    {
+        "english": "nakayama",
+        "japanese": "なかやま",
+        "kanji": "中山"
+    },
+    {
+        "english": "tanaka",
+        "japanese": "たなか",
+        "kanji": "田中"
+    },
+    {
+        "english": "cheerful",
+        "japanese": "あかるい"
+    },
+    {
+        "english": "cute",
+        "japanese": "かわいい"
+    },
+    {
+        "english": "that",
+        "japanese": "その"
+    },
+    {
+        "english": "interesting",
+        "japanese": "おもしろい"
+    },
+    {
+        "english": "yamaguchi",
+        "japanese": "やまぐち",
+        "kanji": "山口"
+    },
+    {
+        "english": "one",
+        "japanese": "いち",
+        "kanji": "一"
+    },
+    {
+        "english": "two",
+        "japanese": "に",
+        "kanji": "二"
+    },
+    {
+        "english": "three",
+        "japanese": "さん",
+        "kanji": "二"
+    },
+    {
+        "english": "what time",
+        "japanese": "なんじ"
+    },
+    {
+        "english": "o'clock",
+        "japanese": "じ"
+    },
+    {
+        "english": "now",
+        "japanese": "いま"
+    },
+    {
+        "english": "about",
+        "japanese": "ごろ"
+    },
+    {
+        "english": "excuse me",
+        "japanese": "せみません"
+    },
+    {
+        "english": "thirty",
+        "japanese": "はん"
+    },
+    {
+        "english": "airport",
+        "japanese": "くうこう"
+    },
+    {
+        "english": "subway",
+        "japanese": "ちかてつ"
+    },
+    {
+        "english": "is not",
+        "japanese": "じゃないです"
+    },
+    {
+        "english": "ticket",
+        "japanese": "きっぷ"
+    },
+    {
+        "english": "map",
+        "japanese": "ちず"
+    },
+    {
+        "english": "smartphone",
+        "japanese": "スマホ"
+    },
+    {
+        "english": "of",
+        "japanese": "の"
+    },
+    {
+        "english": "passport",
+        "japanese": "パスポート"
+    },
+    {
+        "english": "bag",
+        "japanese": "かばん"
+    },
+    {
+        "english": "what's your name",
+        "japanese": "おなまえは"
+    },
+    {
+        "english": "how do you do",
+        "japanese": "はじめまして"
+    },
+    {
+        "english": "good morning",
+        "japanese": "おはようございます"
+    },
+    {
+        "english": "welcome",
+        "japanese": "ようこそ"
+    },
+    {
+        "english": "i",
+        "japanese": "わたし",
+        "kanji": "私"
+    },
+    {
+        "english": "tokyo",
+        "japanese": "とうきょう",
+        "kanji": "東京"
+    },
+    {
+        "english": "from",
+        "japanese": "しゅっしん"
+    },
+    {
+        "english": "also",
+        "japanese": "も"
+    },
+    {
+        "english": "new york",
+        "japanese": "ニユーヨーク"
+    },
+    {
+        "english": "lives",
+        "japanese": "にすんでいます"
+    },
+    {
+        "english": "kyoto",
+        "japanese": "きょうと",
+        "kanji": "京都"
+    },
+    {
+        "english": "osaka",
+        "japanese": "おおさか"
+    },
+    {
+        "english": "how about",
+        "japanese": "どう"
+    },
+    {
+        "english": "city",
+        "japanese": "とし"
+    },
+    {
+        "english": "lively",
+        "japanese": "にぎやか"
+    },
+    {
+        "english": "toronto",
+        "japanese": "トロント"
+    },
+    {
+        "english": "quiet",
+        "japanese": "しずか"
+    },
+    {
+        "english": "clean",
+        "japanese": "きれい"
+    },
+    {
+        "english": "very",
+        "japanese": "とても"
+    },
+    {
+        "english": "town",
+        "japanese": "まち"
+    },
+    {
+        "english": "mom",
+        "japanese": "はは",
+        "kanji": "母"
+    },
+    {
+        "english": "dad",
+        "japanese": "ちち",
+        "kanji": "父"
+    },
+    {
+        "english": "family",
+        "japanese": "かぞく"
+    },
+    {
+        "english": "engineer",
+        "japanese": "エンジニア"
+    },
+    {
+        "english": "busy",
+        "japanese": "いそがしい"
+    },
+    {
+        "english": "years old",
+        "japanese": "さい"
+    },
+    {
+        "english": "my younger sister",
+        "japanese": "いもうと"
+    },
+    {
+        "english": "four",
+        "japanese": "よん",
+        "kanji": "四"
+    },
+    {
+        "english": "my older sister",
+        "japanese": "あね"
+    },
+    {
+        "english": "office worker",
+        "japanese": "かいしゃいん"
+    },
+    {
+        "english": "my older brother",
+        "japanese": "あに"
+    },
+    {
+        "english": "five",
+        "japanese": "ご",
+        "kanji": "五"
+    },
+    {
+        "english": "noisy",
+        "japanese": "うるかい"
+    },
+    {
+        "english": "my younger brother",
+        "japanese": "おとうと"
+    },
+    {
+        "english": "nurse",
+        "japanese": "かんごし"
+    },
+    {
+        "english": "famous",
+        "japanese": "ゆうめい"
+    },
+    {
+        "english": "college student",
+        "japanese": "だいがくせい"
+    },
+    {
+        "english": "my wife",
+        "japanese": "つま"
+    },
+    {
+        "english": "six",
+        "japanese": "ろく",
+        "kanji": "六"
+    },
+    {
+        "english": "my daughter",
+        "japanese": "むしめ"
+    },
+    {
+        "english": "fashionable",
+        "japanese": "おしゃれ"
+    },
+    {
+        "english": "my son",
+        "japanese": "むすこ"
+    },
+    {
+        "english": "smart",
+        "japanese": "あたまがいい"
+    },
+    {
+        "english": "seven",
+        "japanese": "なな",
+        "kanji": "七"
+    },
+    {
+        "english": "my husband",
+        "japanese": "おっと"
     }
 ]
