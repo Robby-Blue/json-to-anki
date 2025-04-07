@@ -4,8 +4,7 @@ import json
 def md5hash(text):
     return hashlib.md5(text.encode("UTF8")).hexdigest()
 
-with open("words.json") as f:
-    words = json.load(f)
+guids = set()
 
 headers = [
     ("seperator", "semicolon"),
@@ -19,20 +18,68 @@ columns = [
     ("tags", 6)
 ]
 
-with open("deck.txt", "w") as f:
-    for (key, value) in headers:
-        f.write(f"#{key}:{value}\n")
-    for (key, column) in columns:
-        f.write(f"#{key} column:{column}\n")
+def process_word(word):
+    notes = []
 
-    for word in words:
-        english = word["english"]
-        japanese = word["japanese"]
-        guid = md5hash(english)
-        
-        values = [guid, "Double sided with typing", "Japanese Duolingo", english, japanese]
-        
-        for value in values:
-            f.write(str(value)+";")
+    word_key = word.get("key", word["english"])
 
-        f.write("\n")
+    # english to japanese
+    # and japanese to english
+    notes.append({
+        "key": f"{word_key}/vocabulary",
+        "note_type": "Zoe double sided typing",
+        "front": word["english"],
+        "back": word["japanese"]
+    })
+
+    if "kanji" in word:
+        # kanji to non kanji
+        notes.append({
+            "key": f"{word_key}/kanji",
+            "note_type": "Zoe typing",
+            "front": word["kanji"],
+            "back": word["japanese"]
+        })
+
+    return notes
+
+def process():
+    notes_count = 0
+
+    with open("words.json") as f:
+        words = json.load(f)
+
+    with open("deck.txt", "w") as f:
+        for (key, value) in headers:
+            f.write(f"#{key}:{value}\n")
+        for (key, column) in columns:
+            f.write(f"#{key} column:{column}\n")
+
+        for word in words:            
+            notes = process_word(word)
+
+            for note in notes:
+                notes_count += 1
+                guid = md5hash(note["key"])
+                
+                if guid in guids:
+                    print("duplicate guid from", note["key"])
+                    return
+                
+                if not note["front"] or not note["back"]:
+                    print("empty", note["key"])
+                    return
+
+                guids.add(guid)
+
+                values = [guid, note["note_type"],
+                          "Zoe's Japanese Words", note["front"], note["back"]]
+                
+                for value in values:
+                    f.write(str(value)+";")
+
+                f.write("\n")
+
+    print("wrote", notes_count, "notes")
+
+process()

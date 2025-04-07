@@ -24,6 +24,7 @@
         "japanese": "と"
     },
     {
+        "key": "desu",
         "english": "to be",
         "japanese": "です"
     },
@@ -96,6 +97,7 @@
         "japanese": "カレー"
     },
     {
+        "key": "wa particle",
         "english": "is",
         "japanese": "は"
     },
@@ -108,10 +110,12 @@
         "japanese": "ラーメン"
     },
     {
+        "key": "kore",
         "english": "this",
         "japanese": "これ"
     },
     {
+        "key": "sore",
         "english": "that (it)",
         "japanese": "それ"
     },
@@ -257,6 +261,7 @@
         "japanese": "それら"
     },
     {
+        "key": "kono",
         "english": "this",
         "japanese": "この"
     },
@@ -279,6 +284,7 @@
         "japanese": "かわいい"
     },
     {
+        "key": "sono",
         "english": "that",
         "japanese": "その"
     },
@@ -339,7 +345,8 @@
         "japanese": "ちかてつ"
     },
     {
-        "english": "is not",
+        "key": "janaidesu",
+        "english": "to not be",
         "japanese": "じゃないです"
     },
     {
@@ -371,6 +378,7 @@
         "japanese": "おなまえは"
     },
     {
+        "key": "hajimemashite",
         "english": "how do you do",
         "japanese": "はじめまして"
     },
