@@ -5,6 +5,8 @@ def md5hash(text):
     return hashlib.md5(text.encode("UTF8")).hexdigest()
 
 guids = set()
+english_words = set()
+japanese_words = set()
 
 headers = [
     ("seperator", "semicolon"),
@@ -21,15 +23,25 @@ columns = [
 def process_word(word):
     notes = []
 
-    word_key = word.get("key", word["english"])
+    english_word = word["english"]
+    japanese_word = word["japanese"]
+
+    word_key = word.get("key", english_word)
+
+    if english_word in english_words:
+        print("dup word:", english_word)
+    english_words.add(english_word)
+    if japanese_word in japanese_words:
+        print("dup word:", japanese_word)
+    japanese_words.add(japanese_word)
 
     # english to japanese
     # and japanese to english
     notes.append({
         "key": f"{word_key}/vocabulary",
         "note_type": "Zoe double sided typing",
-        "front": word["english"],
-        "back": word["japanese"]
+        "front": english_word,
+        "back": japanese_word
     })
 
     if "kanji" in word:
