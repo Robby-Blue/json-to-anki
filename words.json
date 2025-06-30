@@ -17,7 +17,8 @@
     },
     {
         "english": "water",
-        "japanese": "みず"
+        "japanese": "みず",
+        "kanji": "水"
     },
     {
         "english": "and",
@@ -116,7 +117,7 @@
     },
     {
         "key": "sore",
-        "english": "that (it)",
+        "english": "that",
         "japanese": "それ"
     },
     {
@@ -141,11 +142,13 @@
     },
     {
         "english": "big",
-        "japanese": "おおきい"
+        "japanese": "おおきい",
+        "kanji": "大きい"
     },
     {
         "english": "small",
-        "japanese": "ちいさい"
+        "japanese": "ちいさい",
+        "kanji": "小さい"
     },
     {
         "english": "america",
@@ -165,12 +168,13 @@
     },
     {
         "english": "japan",
-        "japanese": "ニホン",
+        "japanese": "にほん",
         "kanji": "日本"
     },
     {
         "english": "japanese",
-        "japanese": "ニホン"
+        "japanese": "にほんじん",
+        "kanji": "日本じん"
     },
     {
         "english": "britain",
@@ -178,7 +182,7 @@
     },
     {
         "english": "british",
-        "japanese": "イギリスじｎ"
+        "japanese": "イギリスじん"
     },
     {
         "english": "brazil",
@@ -262,7 +266,7 @@
     },
     {
         "key": "kono",
-        "english": "this",
+        "english": "this <noun>",
         "japanese": "この"
     },
     {
@@ -285,7 +289,7 @@
     },
     {
         "key": "sono",
-        "english": "that",
+        "english": "that <noun>",
         "japanese": "その"
     },
     {
@@ -314,11 +318,13 @@
     },
     {
         "english": "what time",
-        "japanese": "なんじ"
+        "japanese": "なんじ",
+        "kanji": "何時"
     },
     {
         "english": "o'clock",
-        "japanese": "じ"
+        "japanese": "じ",
+        "kanji": "時"
     },
     {
         "english": "now",
@@ -333,8 +339,10 @@
         "japanese": "せみません"
     },
     {
+        "key": "thirty",
         "english": "thirty",
-        "japanese": "はん"
+        "japanese": "はん",
+        "kanji": "半"
     },
     {
         "english": "airport",
@@ -410,7 +418,7 @@
     },
     {
         "english": "new york",
-        "japanese": "ニユーヨーク"
+        "japanese": "ニューヨーク"
     },
     {
         "english": "lives",
@@ -562,5 +570,1140 @@
     {
         "english": "my husband",
         "japanese": "おっと"
+    },
+    {
+        "english": "watch",
+        "japanese": "見ます"
+    },
+    {
+        "english": "TV",
+        "japanese": "テレビ"
+    },
+    {
+        "english": "movie",
+        "japanese": "えいが"
+    },
+    {
+        "english": "often",
+        "japanese": "よく"
+    },
+    {
+        "english": "basketball",
+        "japanese": "バスケットボール"
+    },
+    {
+        "english": "doing, making",
+        "japanese": "します"
+    },
+    {
+        "english": "sometimes",
+        "japanese": "ときどき"
+    },
+    {
+        "english": "soccer",
+        "japanese": "サッカー"
+    },
+    {
+        "english": "jazz",
+        "japanese": "ジャズ"
+    },
+    {
+        "english": "listen",
+        "japanese": "ききます"
+    },
+    {
+        "english": "rock",
+        "japanese": "ロック"
+    },
+    {
+        "english": "music",
+        "japanese": "おんがく"
+    },
+    {
+        "english": "news",
+        "japanese": "ニュース"
+    },
+    {
+        "english": "read",
+        "japanese": "よみます",
+        "kanji": "読みます"
+    },
+    {
+        "english": "books",
+        "japanese": "本"
+    },
+    {
+        "english": "magazines",
+        "japanese": "ざーし"
+    },
+    {
+        "english": "baseball",
+        "japanese": "やきゅう"
+    },
+    {
+        "english": "anime",
+        "japanese": "アニメ"
+    },
+    {
+        "english": "manga",
+        "japanese": "まんが"
+    },
+    {
+        "english": "J-pop",
+        "japanese": "Jポップ"
+    },
+    {
+        "english": "eat",
+        "japanese": "たべます",
+        "kanji": "食べます"
+    },
+    {
+        "english": "sandwich",
+        "japanese": "サンドイッチ"
+    },
+    {
+        "english": "bread",
+        "japanese": "パン"
+    },
+    {
+        "english": "every day",
+        "japanese": "まいにち"
+    },
+    {
+        "english": "juice",
+        "japanese": "ジュース"
+    },
+    {
+        "english": "to drink",
+        "japanese": "のみます",
+        "kanji": "飲みます"
+    },
+    {
+        "english": "every morning",
+        "japanese": "まいあさ"
+    },
+    {
+        "english": "coffee",
+        "japanese": "コーヒー"
+    },
+    {
+        "english": "breakfast",
+        "japanese": "あさごはん"
+    },
+    {
+        "english": "ten",
+        "japanese": "じゅう",
+        "kanji": "十"
+    },
+    {
+        "english": "eleven",
+        "japanese": "じゅいち",
+        "kanji": "十一"
+    },
+    {
+        "english": "twelve",
+        "japanese": "じゅうに",
+        "kanji": "十二"
+    },
+    {
+        "english": "lunch",
+        "japanese": "ひろごはん"
+    },
+    {
+        "english": "boxed lunch",
+        "japanese": "べんとう"
+    },
+    {
+        "english": "eight",
+        "japanese": "はち",
+        "kanji": "八"
+    },
+    {
+        "english": "nine",
+        "japanese": "きゅう",
+        "kanji": "九"
+    },
+    {
+        "english": "every night",
+        "japanese": "まいばん"
+    },
+    {
+        "english": "dinner",
+        "japanese": "ばんごはん"
+    },
+    {
+        "english": "old",
+        "japanese": "ふるい",
+        "kanji": "古い"
+    },
+    {
+        "english": "wallet",
+        "japanese": "さいふ"
+    },
+    {
+        "english": "i dont really like ...",
+        "japanese": "はちょっと"
+    },
+    {
+        "english": "hideaus",
+        "japanese": "ダサい"
+    },
+    {
+        "english": "clothes",
+        "japanese": "ふく"
+    },
+    {
+        "english": "isn't it",
+        "japanese": "ね"
+    },
+    {
+        "english": "new",
+        "japanese": "あたらし",
+        "kanji": "新しい"
+    },
+    {
+        "english": "T-shirt",
+        "japanese": "Tシャツ"
+    },
+    {
+        "english": "skirt",
+        "japanese": "スカート"
+    },
+    {
+        "english": "want",
+        "japanese": "ほしいです"
+    },
+    {
+        "english": "lovely",
+        "japanese": "すてき"
+    },
+    {
+        "english": "dress",
+        "japanese": "ドレス"
+    },
+    {
+        "english": "good",
+        "japanese": "いい"
+    },
+    {
+        "english": "blue",
+        "japanese": "あおい"
+    },
+    {
+        "english": "hundred",
+        "japanese": "ひゃく",
+        "kanji": "百"
+    },
+    {
+        "english": "cheap",
+        "japanese": "やすい"
+    },
+    {
+        "english": "yen",
+        "japanese": "えん"
+    },
+    {
+        "english": "necktie",
+        "japanese": "ネクタイ"
+    },
+    {
+        "english": "how much",
+        "japanese": "いくら"
+    },
+    {
+        "english": "thousand",
+        "japanese": "せん",
+        "kanji": "千"
+    },
+    {
+        "english": "thank you",
+        "japanese": "ありがとうございます"
+    },
+    {
+        "english": "store",
+        "japanese": "みせ"
+    },
+    {
+        "english": "black",
+        "japanese": "くろい"
+    },
+    {
+        "english": "expensive, tall",
+        "japanese": "たかい",
+        "kanji": "高い"
+    },
+    {
+        "english": "jacket",
+        "japanese": "ジャケット"
+    },
+    {
+        "english": "tempura",
+        "japanese": "てんぷら"
+    },
+    {
+        "english": "udon",
+        "japanese": "うどん"
+    },
+    {
+        "english": "meal set",
+        "japanese": "ていしょく"
+    },
+    {
+        "english": "restaurant",
+        "japanese": "レストラン"
+    },
+    {
+        "english": "one (thing)",
+        "japanese": "ひとつ"
+    },
+    {
+        "english": "ah",
+        "japanese": "あ"
+    },
+    {
+        "english": "two (thing)",
+        "japanese": "ふたつ"
+    },
+    {
+        "english": "well then",
+        "japanese": "じゃあ"
+    },
+    {
+        "english": "three (thing)",
+        "japanese": "みっつ"
+    },
+    {
+        "english": "um",
+        "japanese": "ええと"
+    },
+    {
+        "english": "four (thing)",
+        "japanese": "よっつ"
+    },
+    {
+        "english": "rice balls",
+        "japanese": "おにぎり"
+    },
+    {
+        "english": "soba",
+        "japanese": "そば"
+    },
+    {
+        "english": "salad",
+        "japanese": "サラダ"
+    },
+    {
+        "english": "miso soup",
+        "japanese": "みそしる"
+    },
+    {
+        "english": "a bit",
+        "japanese": "すこし"
+    },
+    {
+        "english": "black tea",
+        "japanese": "こうちゃ"
+    },
+    {
+        "english": "ice cream",
+        "japanese": "アイスクリーム"
+    },
+    {
+        "english": "iced coffee",
+        "japanese": "アイスコーヒー"
+    },
+    {
+        "english": "by myself",
+        "japanese": "ひとりで"
+    },
+    {
+        "english": "weekend",
+        "japanese": "しゅうまつ"
+    },
+    {
+        "english": "swim",
+        "japanese": "およぎます"
+    },
+    {
+        "english": "hang out",
+        "japanese": "あそびます"
+    },
+    {
+        "english": "drama",
+        "japanese": "ドラマ"
+    },
+    {
+        "english": "friend",
+        "japanese": "ともだち"
+    },
+    {
+        "english": "yoga",
+        "japanese": "ヨガ"
+    },
+    {
+        "english": "sports",
+        "japanese": "スポーツ"
+    },
+    {
+        "english": "buy",
+        "japanese": "かいます",
+        "kanji": "買います"
+    },
+    {
+        "english": "saturday",
+        "japanese": "どようび",
+        "kanji": "土曜日"
+    },
+    {
+        "english": "go out",
+        "japanese": "でかきます"
+    },
+    {
+        "english": "karate",
+        "japanese": "からて"
+    },
+    {
+        "english": "video games",
+        "japanese": "ゲーム"
+    },
+    {
+        "english": "sunday",
+        "japanese": "にちようび",
+        "kanji": "日曜日"
+    },
+    {
+        "english": "speaks",
+        "japanese": "はなします",
+        "kanji": "話します"
+    },
+    {
+        "english": "tennis",
+        "japanese": "テニス"
+    },
+    {
+        "english": "judo",
+        "japanese": "じゅうどう"
+    },
+    {
+        "english": "video",
+        "japanese": "どうが"
+    },
+    {
+        "english": "platform",
+        "japanese": "ホーム"
+    },
+    {
+        "english": "first floor",
+        "japanese": "いっかい"
+    },
+    {
+        "english": "is there?",
+        "japanese": "ありますか"
+    },
+    {
+        "english": "ticket gate",
+        "japanese": "かいさつ"
+    },
+    {
+        "english": "over there",
+        "japanese": "あそこ"
+    },
+    {
+        "english": "transfer",
+        "japanese": "のりかえ"
+    },
+    {
+        "english": "trash can",
+        "japanese": "ごみばこ"
+    },
+    {
+        "english": "dont have",
+        "japanese": "ありません"
+    },
+    {
+        "english": "restroom",
+        "japanese": "おてあらい"
+    },
+    {
+        "english": "elevator",
+        "japanese": "エレベーター"
+    },
+    {
+        "english": "taxi",
+        "japanese": "タクシー"
+    },
+    {
+        "english": "underground level",
+        "japanese": "ちか"
+    },
+    {
+        "english": "phone",
+        "japanese": "でんわ"
+    },
+    {
+        "english": "far",
+        "japanese": "とおい"
+    },
+    {
+        "english": "outlet",
+        "japanese": "コンセント"
+    },
+    {
+        "english": "stairs",
+        "japanese": "かいがん"
+    },
+    {
+        "english": "second floor",
+        "japanese": "にかい"
+    },
+    {
+        "english": "cafe",
+        "japanese": "カフェ"
+    },
+    {
+        "english": "close",
+        "japanese": "ちかい"
+    },
+    {
+        "english": "storage lockers",
+        "japanese": "コインロッカー"
+    },
+    {
+        "english": "vending machines",
+        "japanese": "じはんき"
+    },
+    {
+        "english": "exit",
+        "japanese": "でぐち"
+    },
+    {
+        "english": "always",
+        "japanese": "いつも"
+    },
+    {
+        "english": "radio",
+        "japanese": "ラジオ"
+    },
+    {
+        "english": "newspaper",
+        "japanese": "しんぷん",
+        "kanji": "新聞"
+    },
+    {
+        "english": "wake up",
+        "japanese": "おきます"
+    },
+    {
+        "english": "at what time <verb>",
+        "japanese": "なんじに",
+        "kanji": "何時に"
+    },
+    {
+        "english": "produce",
+        "japanese": "つくります"
+    },
+    {
+        "english": "four o'clock",
+        "japanese": "よじ",
+        "kanji": "四時"
+    },
+    {
+        "english": "every week",
+        "japanese": "まいしゅう"
+    },
+    {
+        "english": "volleyball",
+        "japanese": "バレーポール"
+    },
+    {
+        "english": "next week",
+        "japanese": "らいしゅう"
+    },
+    {
+        "english": "tomorrow",
+        "japanese": "あした"
+    },
+    {
+        "english": "to check emails",
+        "japanese": "メールをよみます",
+        "kanji": "メールを読みます"
+    },
+    {
+        "english": "to take a shower",
+        "japanese": "しゃわーをあびます"
+    },
+    {
+        "english": "sleep",
+        "japanese": "ねます"
+    },
+    {
+        "english": "pasta",
+        "japanese": "パスタ"
+    },
+    {
+        "english": "to run",
+        "japanese": "はしります"
+    },
+    {
+        "english": "daniel",
+        "japanese": "ダニエル"
+    },
+    {
+        "english": "this, here",
+        "japanese": "こちら"
+    },
+    {
+        "english": "to say",
+        "japanese": "いいます",
+        "kanji": "言います"
+    },
+    {
+        "english": "Erica",
+        "japanese": "エリカ"
+    },
+    {
+        "english": "Andrew",
+        "japanese": "アンドリュー"
+    },
+    {
+        "english": "boyfriend",
+        "japanese": "かれし"
+    },
+    {
+        "english": "China",
+        "japanese": "ちゃうごく"
+    },
+    {
+        "english": "girlfriend",
+        "japanese": "かのじょ"
+    },
+    {
+        "english": "Korea",
+        "japanese": "かんこく"
+    },
+    {
+        "english": "Vietnam",
+        "japanese": "ベトナム"
+    },
+    {
+        "english": "like",
+        "japanese": "がすきです"
+    },
+    {
+        "english": "K-pop",
+        "japanese": "Kポップ"
+    },
+    {
+        "english": "mystery",
+        "japanese": "ミステリー"
+    },
+    {
+        "english": "hobby",
+        "japanese": "しゅみ"
+    },
+    {
+        "english": "do you like",
+        "japanese": "がすきですか"
+    },
+    {
+        "english": "horror",
+        "japanese": "ホラー"
+    },
+    {
+        "english": "fantasy",
+        "japanese": "ファンタジー"
+    },
+    {
+        "english": "any",
+        "japanese": "どんあ"
+    },
+    {
+        "english": "action",
+        "japanese": "アクション"
+    },
+    {
+        "english": "really",
+        "japanese": "ほんとうですか"
+    },
+    {
+        "english": "comedy",
+        "japanese": "コメデイ"
+    },
+    {
+        "english": "romance",
+        "japanese": "れんあい"
+    },
+    {
+        "english": "house",
+        "japanese": "いえ"
+    },
+    {
+        "english": "spacious",
+        "japanese": "ひろい"
+    },
+    {
+        "english": "still",
+        "japanese": "まだ"
+    },
+    {
+        "english": "to move (house)",
+        "japanese": "ひっこします"
+    },
+    {
+        "english": "apartment",
+        "japanese": "アパート"
+    },
+    {
+        "english": "there are",
+        "japanese": "があります"
+    },
+    {
+        "english": "kitchen",
+        "japanese": "キッチン"
+    },
+    {
+        "english": "living room",
+        "japanese": "リビング"
+    },
+    {
+        "english": "cramped",
+        "japanese": "せまい"
+    },
+    {
+        "english": "bed",
+        "japanese": "ベッド"
+    },
+    {
+        "english": "air conditioner",
+        "japanese": "エアコン"
+    },
+    {
+        "english": "vacuum cleaner",
+        "japanese": "そうじき"
+    },
+    {
+        "english": "shower",
+        "japanese": "シャワー"
+    },
+    {
+        "english": "bookshelf",
+        "japanese": "ほんだな"
+    },
+    {
+        "english": "probably",
+        "japanese": "たぶん"
+    },
+    {
+        "english": "microwave",
+        "japanese": "デンシレンジ"
+    },
+    {
+        "english": "table",
+        "japanese": "テーボル"
+    },
+    {
+        "english": "chair",
+        "japanese": "いす"
+    },
+    {
+        "english": "fridge",
+        "japanese": "れいぞうこ"
+    },
+    {
+        "english": "washing machine",
+        "japanese": "せんたくき"
+    },
+    {
+        "english": "desk",
+        "japanese": "つくえ"
+    },
+    {
+        "english": "when",
+        "japanese": "いつ"
+    },
+    {
+        "english": "this week",
+        "japanese": "こんしゅう"
+    },
+    {
+        "english": "train",
+        "japanese": "でんしゃ"
+    },
+    {
+        "english": "am going to",
+        "japanese": "いきます",
+        "kanji": "行きます"
+    },
+    {
+        "english": "bus",
+        "japanese": "バス"
+    },
+    {
+        "english": "next",
+        "japanese": "ツギ"
+    },
+    {
+        "english": "will come",
+        "japanese": "きます",
+        "kanji": "来ます"
+    },
+    {
+        "english": "soon",
+        "japanese": "もうすぐ"
+    },
+    {
+        "english": "which",
+        "japanese": "どの"
+    },
+    {
+        "english": "enough",
+        "japanese": "十分"
+    },
+    {
+        "english": "fast",
+        "japanese": "はやい"
+    },
+    {
+        "english": "it will take",
+        "japanese": "かかります"
+    },
+    {
+        "english": "about (timespan)",
+        "japanese": "ぐらい"
+    },
+    {
+        "english": "minute",
+        "japanese": "ぷん",
+        "kanji": "分"
+    },
+    {
+        "english": "hour",
+        "japanese": "じかん",
+        "kanji": "時間"
+    },
+    {
+        "english": "final stop",
+        "japanese": "しゅうてん"
+    },
+    {
+        "english": "long",
+        "japanese": "ながい"
+    },
+    {
+        "english": "really, truly",
+        "japanese": "ほんとうに"
+    },
+    {
+        "english": "place",
+        "japanese": "ところ"
+    },
+    {
+        "english": "building",
+        "japanese": "たてもの"
+    },
+    {
+        "english": "temple",
+        "japanese": "おてら"
+    },
+    {
+        "english": "what is",
+        "japanese": "なんですか",
+        "kanji": "何ですか"
+    },
+    {
+        "english": "dessert",
+        "japanese": "デザート"
+    },
+    {
+        "english": "pizza shop",
+        "japanese": "ピザや"
+    },
+    {
+        "english": "ramen shop",
+        "japanese": "ラーメンや"
+    },
+    {
+        "english": "shrine",
+        "japanese": "じんじゃ"
+    },
+    {
+        "english": "mountain",
+        "japanese": "やま",
+        "kanji": "山"
+    },
+    {
+        "english": "Mt. Fuji",
+        "japanese": "ふじさん"
+    },
+    {
+        "english": "postcard",
+        "japanese": "ポストカード"
+    },
+    {
+        "english": "snack",
+        "japanese": "あかし"
+    },
+    {
+        "english": "souvenier",
+        "japanese": "おみやげ"
+    },
+    {
+        "english": "how are things",
+        "japanese": "どうですか"
+    },
+    {
+        "english": "ok",
+        "japanese": "だいじょうぶ"
+    },
+    {
+        "english": "to sit",
+        "japanese": "すわります"
+    },
+    {
+        "english": "unwell",
+        "japanese": "ぐあいがわるい"
+    },
+    {
+        "english": "dangerous",
+        "japanese": "あぶない"
+    },
+    {
+        "english": "police",
+        "japanese": "けいさつ"
+    },
+    {
+        "english": "hospital",
+        "japanese": "びょういん"
+    },
+    {
+        "english": "i need ... please",
+        "japanese": "おねがいします"
+    },
+    {
+        "english": "ambulance",
+        "japanese": "きゅうきゅうしゃ"
+    },
+    {
+        "english": "zero",
+        "japanese": "ゼロ",
+        "kanji": "〇"
+    },
+    {
+        "english": "how old",
+        "japanese": "なんさい",
+        "kanji": "何さい"
+    },
+    {
+        "english": "phone number",
+        "japanese": "でんわばんこう"
+    },
+    {
+        "english": "(your) parents",
+        "japanese": "ごりょうしん"
+    },
+    {
+        "english": "allergy",
+        "japanese": "アレルギー"
+    },
+    {
+        "english": "your family",
+        "japanese": "ごかぞく"
+    },
+    {
+        "english": "nearby",
+        "japanese": "ちかく"
+    },
+    {
+        "english": "today",
+        "japanese": "きょう"
+    },
+    {
+        "english": "rest",
+        "japanese": "やすみます",
+        "kanji": "休みます"
+    },
+    {
+        "english": "to take medicine",
+        "japanese": "くすりを飲みます"
+    },
+    {
+        "english": "fully",
+        "japanese": "ちゃんと"
+    },
+    {
+        "english": "warm",
+        "japanese": "あたたかい"
+    },
+    {
+        "english": "weather",
+        "japanese": "てんき"
+    },
+    {
+        "english": "rainy",
+        "japanese": "あめ"
+    },
+    {
+        "english": "spring",
+        "japanese": "はる"
+    },
+    {
+        "english": "park",
+        "japanese": "こうえん"
+    },
+    {
+        "english": "beach",
+        "japanese": "うみ"
+    },
+    {
+        "english": "day",
+        "japanese": "日"
+    },
+    {
+        "english": "summer",
+        "japanese": "なつ"
+    },
+    {
+        "english": "sunny",
+        "japanese": "はれ"
+    },
+    {
+        "english": "July",
+        "japanese": "しちがつ",
+        "kanji": "七月"
+    },
+    {
+        "english": "swimming pool",
+        "japanese": "プール"
+    },
+    {
+        "english": "hot",
+        "japanese": "あつい"
+    },
+    {
+        "english": "fireworks",
+        "japanese": "はなび"
+    },
+    {
+        "english": "break",
+        "japanese": "やすみ",
+        "kanji": "休み"
+    },
+    {
+        "english": "fall",
+        "japanese": "あき"
+    },
+    {
+        "english": "concert",
+        "japanese": "コンサート"
+    },
+    {
+        "english": "cloudy",
+        "japanese": "くもり"
+    },
+    {
+        "english": "September",
+        "japanese": "くがつ",
+        "kanji": "九月"
+    },
+    {
+        "english": "this evening",
+        "japanese": "こんばん"
+    },
+    {
+        "english": "winter",
+        "japanese": "ふゆ"
+    },
+    {
+        "english": "cocoa",
+        "japanese": "ココア"
+    },
+    {
+        "english": "snowy",
+        "japanese": "ゆき"
+    },
+    {
+        "english": "cold",
+        "japanese": "さむい"
+    },
+    {
+        "english": "(smb.) younger brother",
+        "japanese": "おとうとさん"
+    },
+    {
+        "english": "sibling",
+        "japanese": "きょうだい"
+    },
+    {
+        "english": "do ... have (alive)",
+        "japanese": "はいますか"
+    },
+    {
+        "english": "(smb.) big sister",
+        "japanese": "おねえさん"
+    },
+    {
+        "english": "Australia",
+        "japanese": "オーストラリア"
+    },
+    {
+        "english": "coach",
+        "japanese": "コーチ"
+    },
+    {
+        "english": "Japanese language",
+        "japanese": "にほんご",
+        "kanji": "日本ご"
+    },
+    {
+        "english": "taiwan",
+        "japanese": "たいわん"
+    },
+    {
+        "english": "to know",
+        "japanese": "ができます"
+    },
+    {
+        "english": "Chinese",
+        "japanese": "ちゅうごくご"
+    },
+    {
+        "english": "(smb.) younger sist",
+        "japanese": "いもうとさん"
+    },
+    {
+        "english": "(smb.) big brother",
+        "japanese": "おにいさん"
+    },
+    {
+        "english": "English language",
+        "japanese": "えいご"
+    },
+    {
+        "english": "Malaysia",
+        "japanese": "マレーシア"
+    },
+    {
+        "english": "two (people)",
+        "japanese": "ふたり"
+    },
+    {
+        "english": "Korean (language)",
+        "japanese": "かんこくご"
+    },
+    {
+        "english": "Seoul",
+        "japanese": "ソウル"
+    },
+    {
+        "english": "kid",
+        "japanese": "おこさん"
+    },
+    {
+        "english": "(smb.) child",
+        "japanese": "こども"
+    },
+    {
+        "english": "one (person)",
+        "japanese": "ひとり"
     }
 ]
